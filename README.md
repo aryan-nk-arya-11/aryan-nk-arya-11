@@ -6,20 +6,15 @@ Data Analyst | Numbers don’t lie — but they don’t speak either, I do <img 
 
 ---
 
-
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fbacd99e-b4cd-4819-9812-c555f54e2e75" /> Exploring opportunities where data drives real-world impact! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/22ff13ce-ffa6-4c50-a9cf-7d1d5b85f589" />
 
-
-
-
--  🖂 Reach me at **aryannkarya@gmail.com**
+- 🖂 Reach me at **aryannkarya@gmail.com**
 
 - 📑 Explore my experience : [My Resume](https://drive.google.com/file/d/1VbvezGIlM9zlCiUduYgx7HwZY17Nu84_/view?usp=drive_link)
 
 - ➤ Fun fact  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/db511d30-c982-444a-9170-f7498b183945" />
 
   I talk to datasets more than people sometimes...
-
 
 ---
 
@@ -102,6 +97,11 @@ Data Analyst | Numbers don’t lie — but they don’t speak either, I do <img 
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<!-- Agile -->
+<a href="#">
+<img src="https://img.icons8.com/color/48/sprint-iteration.png" width="40" height="40"/>
 </a>
 
 </p>
