@@ -10,7 +10,7 @@ Data Analyst | Numbers don’t lie — but they don’t speak either, I do <img 
 
 - 🖂 Reach me at **aryannkarya@gmail.com**
 
-- 📑 Explore my experience : [My Resume](https://drive.google.com/file/d/1VbvezGIlM9zlCiUduYgx7HwZY17Nu84_/view?usp=drive_link)
+- 📑 Explore my experience : [My Resume](https://drive.google.com/file/d/1ZsYwOT3k1yopBomer9tZvCFSiqKqKeZr/view?usp=sharing)
 
 - ➤ Fun fact  <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/db511d30-c982-444a-9170-f7498b183945" />
 
